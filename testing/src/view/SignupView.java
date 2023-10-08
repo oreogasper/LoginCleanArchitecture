@@ -1,3 +1,5 @@
+// TODO: Replace this file with your completed version of it based on the
+//       lab activity this week.
 package view;
 
 import interface_adapter.SignupController;
